@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+}
+
+#result-div {
+  border: 1px;
+}
+
+p#result {
+  height: 1em;
+}
